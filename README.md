@@ -1,11 +1,16 @@
 # 2021 HAI Summer RL
-ÇÑ¾ç´ëÇĞ±³ ÀÎ°øÁö´É µ¿¾Æ¸® HAI¿¡¼­ 2021³â ¿©¸§¿¡ ÁøÇàµÈ °­È­ÇĞ½À ±âÃÊ °­ÀÇ ÀÚ·áÀÔ´Ï´Ù.
-¿¹Á¦ ÀÚ·á¿Í °úÁ¦´Â [Numpy](https://numpy.org) È¤Àº [PyTorch](https://pytorch.org)¸¦ »ç¿ëÇÕ´Ï´Ù.
+í•œì–‘ëŒ€í•™êµ ì¸ê³µì§€ëŠ¥ ë™ì•„ë¦¬ HAIì—ì„œ 2021ë…„ ì—¬ë¦„ì— ì§„í–‰ëœ ê°•í™”í•™ìŠµ ê¸°ì´ˆ ê°•ì˜ ìë£Œì…ë‹ˆë‹¤.
+ì˜ˆì œ ìë£Œì™€ ê³¼ì œëŠ” [Numpy](https://numpy.org)ì™€ [PyTorch](https://pytorch.org)ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤.
+
+
+## Text Books
+- Deep Reinforcement Learning Hands-On - Second Edition (Packt, 2020)
+- Reinforcement Learning, An Introduction - Second Edition (MIT Presse, 2018)
+  - Korean: ë‹¨ë‹¨í•œ ê°•í™”í•™ìŠµ (ì œì´í, 2020)
 
 
 ## Contents
-TBA
-
-## Acknowledgement
-TBA
+- Week1 - Introduction to RL and OpenAI Gym (7/23) [[Lecture](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/1.%20Lecture/1.%20Introduction%20to%20RL%20and%20OpenAI%20Gym.pdf)] [[Colab](https://colab.research.google.com/github/JYPark09/2021-HAI-Summer-RL/blob/master/2.%20Examples/week1/OpenAI%20Gym.ipynb)]
+  - Introduction to RL
+  - OpenAI Gym
 
