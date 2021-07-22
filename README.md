@@ -14,3 +14,23 @@
   - Introduction to RL
   - OpenAI Gym
 
+- Week2 - MDP and Cross Entropy Method (7/30)
+  - Markov Decision Process
+  - Cross Entropy Method
+
+- Week3 - Bellman Equation and Tabular Learning (8/6)
+  - Bellman Equation
+  - Dynamic Programming
+  - Tabular Learning
+
+- Week4 - Deep Q-Network (8/13)
+  - Approximate Solution Methods
+  - Deep Q-Network
+
+- Week5 - Policy Gradient (8/20)
+  - Policy Gradient
+  - REINFORCE
+
+- Week6 - Actor Critic (8/27)
+  - REINFORCE Issues
+  - Actor Critic
