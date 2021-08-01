@@ -14,7 +14,7 @@
   - Introduction to RL
   - OpenAI Gym
 
-- Week2 - MDP and Cross Entropy Method (7/30)
+- Week2 - MDP and Cross Entropy Method (7/30) [[Lecture](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/1.%20Lecture/2.%20MDP%20and%20Cross%20Entropy%20Method.pdf)] [[Code](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/2.%20Examples/week2/cross_entropy_method.py)]
   - Markov Decision Process
   - Cross Entropy Method
 
