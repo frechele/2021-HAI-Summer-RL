@@ -18,12 +18,12 @@
   - Markov Decision Process
   - Cross Entropy Method
 
-- Week3 - Bellman Equation and Tabular Learning (8/6)
+- Week3 - Bellman Equation and Tabular Learning (8/6) [[Lecture](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/1.%20Lecture/3.%20Bellman%20Equation%20and%20Tabular%20Learning.pdf)] [[Code](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/2.%20Examples/week3/q_learning.py)]
   - Bellman Equation
   - Dynamic Programming
   - Tabular Learning
 
-- Week4 - Deep Q-Network (8/13)
+- Week4 - Deep Q-Network (8/13) [[Lecture](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/1.%20Lecture/4.%20Deep%20Q-Network.pdf)] [[PyTorch Practice](https://colab.research.google.com/github/utilForever/2020-OSS-Winter-AlphaZero/blob/master/2%20-%20Examples/2%20-%20Day%202/1%20-%20Introduction%20to%20PyTorch/pytorch.ipynb)] [[Code](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/2.%20Examples/week4/dqn.py)]
   - Approximate Solution Methods
   - Deep Q-Network
 
