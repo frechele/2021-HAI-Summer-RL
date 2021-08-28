@@ -27,10 +27,10 @@
   - Approximate Solution Methods
   - Deep Q-Network
 
-- Week5 - Policy Gradient (8/20)
+- Week5 - Policy Gradient (8/20) [[Lecture](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/1.%20Lecture/5.%20Policy%20Gradient.pdf)] [[Code](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/2.%20Examples/week5/reinforce.py)]
   - Policy Gradient
   - REINFORCE
 
-- Week6 - Actor Critic (8/27)
+- Week6 - Actor Critic (8/27) [[Lecture](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/1.%20Lecture/6.%20Actor%20Critic.pdf)] [[Code](https://github.com/JYPark09/2021-HAI-Summer-RL/blob/master/2.%20Examples/week6/a2c.py)]
   - REINFORCE Issues
   - Actor Critic
